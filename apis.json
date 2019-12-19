@@ -1,0 +1,72 @@
+{
+    "name": "hook.io",
+    "description": "Twitter account for hook.io open-source microservice hosting platform.    Tweet here for Questions or Support.    File support issues @ https:\/\/t.co\/jHGKd4iuop",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20079-hook-io.jpg",
+    "tags": [
+        "api service provider",
+        "databases",
+        "deployment",
+        "have api",
+        "microservices",
+        "webhooks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hook-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "hook.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20079-hook-io.jpg",
+            "humanURL": "http:\/\/hook.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hook-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hook-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/hook.io\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/hook.io\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/hook"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/hook.io\/api"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/bigcompany"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/hook.io\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hookdotio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/hook.io\/"
+        }
+    ]
+}
